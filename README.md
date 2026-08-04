@@ -1,8 +1,8 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Yuanhao%20Zhong&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI4Data%20%C2%B7%20AI%20Agents%20%C2%B7%20Multimodal%20LLMs&descAlignY=62&descSize=17" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Xstone1129&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=Computer%20Science%20Student%20%C2%B7%20AI%20Builder%20%C2%B7%20Code%20Learner&descAlignY=62&descSize=17" />
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=AI4Data+Researcher+%7C+AI+Agent+Builder;Multimodal+LLM+Explorer;Data-Driven+%C2%B7+Agent-Powered+%C2%B7+Vision-Aware;Building+Agents+that+Think+%26+Act)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%7C+AI+Builder+%7C+Code+Learner;Multimodal+LLM+Explorer;Data-Driven+%C2%B7+Agent-Powered+%C2%B7+Vision-Aware;Building+Agents+that+Think+%26+Act)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://github.com/Xstone1129"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -24,14 +24,6 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
 </div>
 
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xstone1129&theme=tokyonight" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xstone1129&theme=tokyonight" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xstone1129&theme=tokyonight" width="33%" />
-</div>
-
-
 <h2 align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="30px" width="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   GitHub Activity
@@ -44,8 +36,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xstone1129/Xstone1129/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xstone1129/Xstone1129/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xstone1129&theme=tokyonight" width="100%" />
 
 <img src="https://raw.githubusercontent.com/Xstone1129/Xstone1129/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
