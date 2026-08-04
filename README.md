@@ -2,7 +2,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Xstone1129&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=Computer%20Science%20Student%20%C2%B7%20AI%20Builder%20%C2%B7%20Code%20Learner&descAlignY=62&descSize=17" />
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%7C+AI+Builder+%7C+Code+Learner;Multimodal+LLM+Explorer;Data-Driven+%C2%B7+Agent-Powered+%C2%B7+Vision-Aware;Building+Agents+that+Think+%26+Act)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=CS+Student+%7C+AI+Builder;Code+Learner+%7C+Project+Maker;Learning+AI+and+Web+Dev)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://github.com/Xstone1129"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -13,6 +13,20 @@
     <a href="https://github.com/Xstone1129/Xstone1129.github.io"><img src="https://img.shields.io/badge/Use%20My%20Website%20Template-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website Template" /></a>
   </p>
 </div>
+
+<h2 align="center">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="waving hand" />
+</h2>
+
+<p align="center">
+  I'm <strong>Xu Sitong</strong>, a Robotics Engineering student at
+  <strong>Dongguan University of Technology</strong>.
+</p>
+
+<p align="center">
+  许斯烔 · 东莞理工学院 · 机器人工程
+</p>
 
 
 <h2 align="center">
