@@ -1,84 +1,57 @@
-# Hi, I'm Xstone 👋
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Yuanhao%20Zhong&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI4Data%20%C2%B7%20AI%20Agents%20%C2%B7%20Multimodal%20LLMs&descAlignY=62&descSize=17" />
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=AI4Data+Researcher+%7C+AI+Agent+Builder;Multimodal+LLM+Explorer;Data-Driven+%C2%B7+Agent-Powered+%C2%B7+Vision-Aware;Building+Agents+that+Think+%26+Act)](https://git.io/typing-svg)
 
-I'm interested in robotics software, computer vision, and robot communication systems.
+  <p align="center">
+    <a href="https://github.com/Xstone1129"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="2712860387@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <img src="https://komarev.com/ghpvc/?username=Xstone1129&style=for-the-badge&color=7C3AED&label=VIEWS" alt="页面访问次数" />
+    <img src="https://img.shields.io/github/stars/Xstone1129?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117" alt="星标" />
+    <a href="https://github.com/Xstone1129/awesome-github-readme-profile"><img src="https://img.shields.io/badge/Use%20This%20Template-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Use This Template" /></a>
+    <a href="https://github.com/Xstone1129/Xstone1129.github.io"><img src="https://img.shields.io/badge/Use%20My%20Website%20Template-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website Template" /></a>
+  </p>
+</div>
 
-Currently, I am working on projects around **ROS2**, **robot vision**, **motion control**, and **edge-cloud robot communication**. My repositories mainly focus on practical robotics workflows, including perception, control, simulation, data processing, and automated testing.
 
-## About Me
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  Skills & Tools
+</h2>
 
-- 🔭 Working on ROS2-based robot communication and control systems
-- 🌱 Learning robotics middleware, visual perception, and robot motion planning
-- 🛠️ Building projects with C++, Python, ROS2, OpenCV, MQTT, Docker, and simulation tools
-- 🎯 Interested in robotics software engineering, RoboMaster vision, and intelligent robot systems
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
+</div>
 
-## Tech Stack
 
-**Languages**  
-C++ / Python / C
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xstone1129&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xstone1129&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xstone1129&theme=tokyonight" width="33%" />
+</div>
 
-**Robotics & Middleware**  
-ROS2 / rclcpp / DDS / MQTT / Mosquitto
 
-**Computer Vision**  
-OpenCV / camera calibration / target detection / pose estimation / filtering
+<h2 align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30px" width="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  GitHub Activity
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30px" width="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+</h2>
 
-**Simulation & Tools**  
-Gazebo / MuJoCo / CoppeliaSim / Docker / Linux / Git
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xstone1129/Xstone1129/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xstone1129/Xstone1129/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xstone1129/Xstone1129/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
-**Data & Visualization**  
-NumPy / Matplotlib / trajectory processing / experiment analysis
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xstone1129&theme=tokyonight" width="100%" />
 
-## Featured Projects
+<img src="https://raw.githubusercontent.com/Xstone1129/Xstone1129/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
 
-### Robot Edge Cloud
-A ROS2 + MQTT robot communication project for remote status reporting and command control.
+<p align="center">
+  <i>Thanks for visiting — let's build something intelligent together.</i>
+</p>
 
-- Designed a complete robot communication loop: status upload, cloud command delivery, ACK feedback, and command deduplication
-- Built ROS2 C++ nodes for robot simulation, status monitoring, MQTT bridging, and motion command handling
-- Implemented custom ROS2 messages: `RobotStatus`, `RobotCommand`, and `CommandAck`
-- Added Python command client, Flask web backend, Docker deployment files, launch scripts, and acceptance tests
-
-Tech: `C++` `ROS2` `MQTT` `Python` `Flask` `Docker`
-
-### RoboMaster Vision & Control
-Robot vision and mechanical control development based on ROS2 and OpenCV.
-
-- Built multi-node ROS2 communication architecture for image, pose, and control command exchange
-- Worked on target recognition, pose solving, and visual-servo style control logic
-- Connected vision output with mechanical control modules for closed-loop robot behavior
-
-Tech: `C++` `ROS2` `OpenCV` `Linux` `Gazebo` `MuJoCo`
-
-### Dobot Magician Trajectory Learning
-A robot trajectory learning and simulation project based on Python and CoppeliaSim.
-
-- Processed demonstration trajectory data with resampling, time normalization, and DTW alignment
-- Implemented and compared DMP, GMM/GMR, ProMP, and Mixture ProMP trajectory learning methods
-- Evaluated trajectory reproduction with metrics such as RMSE, endpoint error, and smoothness
-
-Tech: `Python` `CoppeliaSim` `DMP` `GMM/GMR` `ProMP` `NumPy` `Matplotlib`
-
-### AutoLabel
-A helper tool for RoboMaster armor-plate dataset preparation.
-
-- Extracts useful frames from videos to support armor target annotation workflows
-- Helps improve dataset preparation efficiency for robot vision tasks
-
-Tech: `Python` `OpenCV`
-
-## What I'm Focusing On
-
-- ROS2 communication architecture
-- Robot vision and target pose estimation
-- MQTT-based robot remote control
-- Simulation-based validation
-- Reliable command delivery and automated testing
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xstone1129&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xstone1129&layout=compact&theme=default)
-
-## Contact
-
-- GitHub: [Xstone1129](https://github.com/Xstone1129)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%"/>
